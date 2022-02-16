@@ -1,6 +1,6 @@
-# mobileapp
+# flutter-quiz
 
-A new Flutter project.
+small app project realised to discover the Flutter environment and Dart langage.
 
 ## Getting Started
 
